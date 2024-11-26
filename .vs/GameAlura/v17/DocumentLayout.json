@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dyego.lima\\source\\repos\\GameAlura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB0E1C-B334-4266-AE6B-587FE8043F7E}|GameAlura\\GameAlura.csproj|c:\\users\\dyego.lima\\source\\repos\\gamealura\\gamealura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABB0E1C-B334-4266-AE6B-587FE8043F7E}|GameAlura\\GameAlura.csproj|solutionrelative:gamealura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dyego.lima\\source\\repos\\GameAlura\\GameAlura\\Program.cs",
+              "RelativeDocumentMoniker": "GameAlura\\Program.cs",
+              "ToolTip": "C:\\Users\\dyego.lima\\source\\repos\\GameAlura\\GameAlura\\Program.cs",
+              "RelativeToolTip": "GameAlura\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwDQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:49:38.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

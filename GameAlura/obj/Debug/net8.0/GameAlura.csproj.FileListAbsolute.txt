@@ -1,0 +1,14 @@
+C:\Users\dyego.lima\source\repos\GameAlura\GameAlura\bin\Debug\net8.0\GameAlura.exe
+C:\Users\dyego.lima\source\repos\GameAlura\GameAlura\bin\Debug\net8.0\GameAlura.deps.json
+C:\Users\dyego.lima\source\repos\GameAlura\GameAlura\bin\Debug\net8.0\GameAlura.runtimeconfig.json
+C:\Users\dyego.lima\source\repos\GameAlura\GameAlura\bin\Debug\net8.0\GameAlura.dll
+C:\Users\dyego.lima\source\repos\GameAlura\GameAlura\bin\Debug\net8.0\GameAlura.pdb
+C:\Users\dyego.lima\source\repos\GameAlura\GameAlura\obj\Debug\net8.0\GameAlura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyego.lima\source\repos\GameAlura\GameAlura\obj\Debug\net8.0\GameAlura.AssemblyInfoInputs.cache
+C:\Users\dyego.lima\source\repos\GameAlura\GameAlura\obj\Debug\net8.0\GameAlura.AssemblyInfo.cs
+C:\Users\dyego.lima\source\repos\GameAlura\GameAlura\obj\Debug\net8.0\GameAlura.csproj.CoreCompileInputs.cache
+C:\Users\dyego.lima\source\repos\GameAlura\GameAlura\obj\Debug\net8.0\GameAlura.dll
+C:\Users\dyego.lima\source\repos\GameAlura\GameAlura\obj\Debug\net8.0\refint\GameAlura.dll
+C:\Users\dyego.lima\source\repos\GameAlura\GameAlura\obj\Debug\net8.0\GameAlura.pdb
+C:\Users\dyego.lima\source\repos\GameAlura\GameAlura\obj\Debug\net8.0\GameAlura.genruntimeconfig.cache
+C:\Users\dyego.lima\source\repos\GameAlura\GameAlura\obj\Debug\net8.0\ref\GameAlura.dll
